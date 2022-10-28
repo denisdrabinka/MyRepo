@@ -1,0 +1,3 @@
+[submodule "MyRepo2"]
+	path = MyRepo2
+	url = https://github.com/denisdrabinka/MyRepo2.git
